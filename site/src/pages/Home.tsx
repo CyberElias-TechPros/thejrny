@@ -74,9 +74,9 @@ export default function Home() {
               </Reveal>
               <Reveal delay={400}>
                 <div className="mt-9 flex flex-wrap items-center gap-3">
-                  <a href="#new" className="btn-primary">
+                  <Link to="/#new" className="btn-primary">
                     SHOP THE DROP
-                  </a>
+                  </Link>
                   <WhatsAppButton
                     variant="inline"
                     message="Hi JOURNEY, I'd like help shopping the current batch."

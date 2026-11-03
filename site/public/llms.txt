@@ -1,0 +1,34 @@
+# JOURNEY — Single-Batch Wardrobe
+
+JOURNEY is a single-batch wardrobe. Each artifact is produced once, in a finite quantity, and not restocked. The website is the brand. Ships worldwide. Pay in Naira or Pounds.
+
+Site: https://thejrny.com.ng
+Contact: hello@thejrny.com.ng
+WhatsApp: +2348137731227 (https://wa.me/2348137731227)
+
+## Pages
+- Home: https://thejrny.com.ng/
+- About: https://thejrny.com.ng/about
+- Contact: https://thejrny.com.ng/contact
+- Privacy Policy: https://thejrny.com.ng/privacy-policy
+- Terms & Conditions: https://thejrny.com.ng/terms
+- Refund & Return Policy: https://thejrny.com.ng/refund-policy
+- Shipping & Delivery: https://thejrny.com.ng/shipping-policy
+
+## Collections
+- New Arrivals: https://thejrny.com.ng/
+- Mens: https://thejrny.com.ng/mens
+- Womens: https://thejrny.com.ng/womens
+- Accessories: https://thejrny.com.ng/accessories
+- Jersey: https://thejrny.com.ng/jersey
+- Shorts: https://thejrny.com.ng/shorts
+
+## Key facts
+- Model: Single-batch, finite quantities, no restocks
+- Currencies: NGN (₦), GBP (£)
+- Payment: Paystack (cards, USSD, bank transfer), bank transfer
+- Shipping: Worldwide, tracked courier, 1–3 days NG, 5–10 days international
+- Returns: 7 days, unworn with tags, international at customer cost
+
+## Structured data
+This site publishes Schema.org JSON-LD: Organization, WebSite, WebPage, Product, BreadcrumbList, Offer.

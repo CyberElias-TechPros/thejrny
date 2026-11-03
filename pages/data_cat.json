@@ -1,0 +1,50 @@
+[
+  {
+    "_creationTime": 1780914878456.966,
+    "_id": "j573h9sq6586v00ahh6pv6acyx888rsg",
+    "id": "j573h9sq6586v00ahh6pv6acyx888rsg",
+    "name": "NEW",
+    "product_count": 7,
+    "sort_order": 1
+  },
+  {
+    "_creationTime": 1780849222577.549,
+    "_id": "j572sqw4zthf892n73dy17g3kd886zev",
+    "id": "j572sqw4zthf892n73dy17g3kd886zev",
+    "name": "MENS",
+    "product_count": 12,
+    "sort_order": 2
+  },
+  {
+    "_creationTime": 1780849223411.8262,
+    "_id": "j579ts70xrkjvf36rs22h84add887fnv",
+    "id": "j579ts70xrkjvf36rs22h84add887fnv",
+    "name": "WOMENS",
+    "product_count": 7,
+    "sort_order": 3
+  },
+  {
+    "_creationTime": 1780849225705.3423,
+    "_id": "j570tnxev0bxr792w6apppd2n1886mmy",
+    "id": "j570tnxev0bxr792w6apppd2n1886mmy",
+    "name": "ACCESSORIES",
+    "product_count": 3,
+    "sort_order": 5
+  },
+  {
+    "_creationTime": 1780853933686.2617,
+    "_id": "j572xczqy77xzp4edhdfz8x26s887kvz",
+    "id": "j572xczqy77xzp4edhdfz8x26s887kvz",
+    "name": "Jersey",
+    "product_count": 0,
+    "sort_order": 6
+  },
+  {
+    "_creationTime": 1780934144403.8481,
+    "_id": "j57a2xv5w0vyg3xndnm3hbezy9888zhn",
+    "id": "j57a2xv5w0vyg3xndnm3hbezy9888zhn",
+    "name": "SHORTS",
+    "product_count": 0,
+    "sort_order": 6
+  }
+]

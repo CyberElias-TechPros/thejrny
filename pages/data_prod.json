@@ -1,0 +1,3552 @@
+[
+  {
+    "_creationTime": 1780849229045.5698,
+    "_id": "jn7cat65zw0x1vr2mnwxb8kxch887qrf",
+    "categories": [
+      "j570tnxev0bxr792w6apppd2n1886mmy",
+      "j57825652b1k3h33t7j39dh1gs886zvh"
+    ],
+    "code": "AS-01",
+    "created_at": "2026-06-07T16:20:29.045Z",
+    "id": "jn7cat65zw0x1vr2mnwxb8kxch887qrf",
+    "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/as1/main-1779713649460.png",
+    "is_new": true,
+    "name": "JOURNYARDS",
+    "price_gbp": 4,
+    "price_ngn": 7000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781587714581.0254,
+        "_id": "jh7f3rp9emmv0dqw74shzhm4cn88r53q",
+        "label": "ONE SIZE",
+        "product_id": "jn7cat65zw0x1vr2mnwxb8kxch887qrf",
+        "sku": "AS-01-ONE SIZE",
+        "stock": 50
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-16T05:28:34.581Z"
+  },
+  {
+    "_creationTime": 1780849229683.9373,
+    "_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+    "categories": [
+      "j572sqw4zthf892n73dy17g3kd886zev",
+      "j57825652b1k3h33t7j39dh1gs886zvh"
+    ],
+    "code": "FR-01",
+    "created_at": "2026-06-07T16:20:29.684Z",
+    "id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+    "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/main-1779713530752.png",
+    "is_new": true,
+    "name": "FRANKENSTEIN",
+    "price_gbp": 14,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477769596.2075,
+        "_id": "jh76wayt4wm956vyjzv77sbs4s88nbd1",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "S",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-S",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2078,
+        "_id": "jh75f99t8qa2xt90s2w0fegb6d88ngc5",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "M",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-M",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.208,
+        "_id": "jh7457d0p53m6je85m7qdz55h188mrmm",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "L",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-L",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2083,
+        "_id": "jh7csjh64htgn2rj40jm4fpk0188mm29",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "XL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XL",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2085,
+        "_id": "jh74q6rd2mmmzt36rcakfyd8z588mcx0",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "XXL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XXL",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2087,
+        "_id": "jh70w8gp538nwxtcccta9qgn5988mx46",
+        "color_hex": "BLACK",
+        "color_name": "Colour 1",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-1-1779713567784.png",
+        "label": "XXXL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XXXL",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.209,
+        "_id": "jh7255javexv4bv1sp0s5krg5188mzcw",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "S",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-S",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2092,
+        "_id": "jh7abqwv6427qc77acrqgbtjc188nzx2",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "M",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-M",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2095,
+        "_id": "jh73t5j8kzcwtbkwqqb0n9sajh88mj55",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "L",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-L",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2097,
+        "_id": "jh70j4ty2jkh7rqvnpanb1nbvx88n221",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "XL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XL",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.21,
+        "_id": "jh76gvw61ea8exhefg1f2rt85n88map5",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "XXL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XXL",
+        "stock": 7
+      },
+      {
+        "_creationTime": 1781477769596.2102,
+        "_id": "jh754d0ffzy7qs11d90b9b7tcn88nd8p",
+        "color_hex": "WHITE",
+        "color_name": "Colour 2",
+        "image_url": "https://mwngpxysmoylmeplukuk.supabase.co/storage/v1/object/public/product-images/fr-01/variant-Colour-2-1779713602289.png",
+        "label": "XXXL",
+        "product_id": "jn7davd9d2rfvcdzh6deram2j9886wtt",
+        "sku": "FR-01-XXXL",
+        "stock": 7
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:56:09.596Z"
+  },
+  {
+    "_creationTime": 1780853373439.0178,
+    "_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "RG-01",
+    "created_at": "2026-06-07T17:29:33.439Z",
+    "description": "",
+    "id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853141/thejrny/raglan-shirt1/main-1780853137738.png",
+    "is_new": true,
+    "material": "",
+    "name": "TJ RAGLAN SHIRT (Icarus Logo)",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477827256.9084,
+        "_id": "jh74gasyn3rm3ezevy60t8fk8588nfe2",
+        "color_hex": "Grey",
+        "color_name": "Colour 2",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853255/thejrny/raglan-shirt1/variant-Colour-2-1780853252826.png",
+        "label": "S",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9087,
+        "_id": "jh7ds5t5pk5j36t2sx3q0pat7988ms3e",
+        "color_hex": "Grey",
+        "color_name": "Colour 2",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853255/thejrny/raglan-shirt1/variant-Colour-2-1780853252826.png",
+        "label": "M",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.909,
+        "_id": "jh70tk6pbhphp2nzjsb36aqnn588mzx1",
+        "color_hex": "Grey",
+        "color_name": "Colour 2",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853255/thejrny/raglan-shirt1/variant-Colour-2-1780853252826.png",
+        "label": "L",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9092,
+        "_id": "jh7epc5c0xkax93p6nwxfyhwzn88mw4x",
+        "color_hex": "Grey",
+        "color_name": "Colour 2",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853255/thejrny/raglan-shirt1/variant-Colour-2-1780853252826.png",
+        "label": "XL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9094,
+        "_id": "jh7ca43xkxbfj471c1mrsvzb7x88mpv8",
+        "color_hex": "Grey",
+        "color_name": "Colour 2",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853255/thejrny/raglan-shirt1/variant-Colour-2-1780853252826.png",
+        "label": "XXL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477827256.9097,
+        "_id": "jh72nxraq7ab09h5mnwrvgzh1588nnw6",
+        "color_hex": "#000000",
+        "color_name": "Colour 3",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853306/thejrny/raglan-shirt1/variant-Colour-3-1780853304282.png",
+        "label": "S",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.91,
+        "_id": "jh7etc6pmbfyg88jdnwmrnq41n88nh4a",
+        "color_hex": "#000000",
+        "color_name": "Colour 3",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853306/thejrny/raglan-shirt1/variant-Colour-3-1780853304282.png",
+        "label": "M",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9102,
+        "_id": "jh7dn2a7twx5sdkmkzt6rz5k8988mv9t",
+        "color_hex": "#000000",
+        "color_name": "Colour 3",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853306/thejrny/raglan-shirt1/variant-Colour-3-1780853304282.png",
+        "label": "L",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9104,
+        "_id": "jh72cbcycf4tmm87n3dferctyd88mgnq",
+        "color_hex": "#000000",
+        "color_name": "Colour 3",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853306/thejrny/raglan-shirt1/variant-Colour-3-1780853304282.png",
+        "label": "XL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9106,
+        "_id": "jh74dgmn8rrw0wbbz1xwfp6bhs88nny0",
+        "color_hex": "#000000",
+        "color_name": "Colour 3",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853306/thejrny/raglan-shirt1/variant-Colour-3-1780853304282.png",
+        "label": "XXL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477827256.911,
+        "_id": "jh746jf7pckexgz48qb8t70za588nmez",
+        "color_hex": "#b51a00",
+        "color_name": "Colour 4",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853358/thejrny/raglan-shirt1/variant-Colour-4-1780853356754.png",
+        "label": "S",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9111,
+        "_id": "jh71633my72mtc3mqadxa6qegh88nb49",
+        "color_hex": "#b51a00",
+        "color_name": "Colour 4",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853358/thejrny/raglan-shirt1/variant-Colour-4-1780853356754.png",
+        "label": "M",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9114,
+        "_id": "jh719nmxy83sg862nj47rtn7fx88nxm3",
+        "color_hex": "#b51a00",
+        "color_name": "Colour 4",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853358/thejrny/raglan-shirt1/variant-Colour-4-1780853356754.png",
+        "label": "L",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9116,
+        "_id": "jh7bb95042tzkkwrxdv7b7nz0d88m80m",
+        "color_hex": "#b51a00",
+        "color_name": "Colour 4",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853358/thejrny/raglan-shirt1/variant-Colour-4-1780853356754.png",
+        "label": "XL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477827256.9119,
+        "_id": "jh71d11epjnwvtce9akmrxswwd88nyg4",
+        "color_hex": "#b51a00",
+        "color_name": "Colour 4",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853358/thejrny/raglan-shirt1/variant-Colour-4-1780853356754.png",
+        "label": "XXL",
+        "product_id": "jn7a31ccf0re3s291vse0mw9yh887knq",
+        "sku": "RG-01-XXL",
+        "stock": 10
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:57:07.256Z"
+  },
+  {
+    "_creationTime": 1780853670432.6472,
+    "_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "RG-02",
+    "created_at": "2026-06-07T17:34:30.432Z",
+    "description": "",
+    "id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853589/thejrny/raglan-shirt2/main-1780853562896.png",
+    "is_new": true,
+    "material": "",
+    "name": "Raglan shirt-2",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477835800.557,
+        "_id": "jh76aspkpem64f7stc7gfqg7rn88nqy6",
+        "color_hex": "#000000",
+        "color_name": "Colour 1",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853645/thejrny/raglan-shirt2/variant-Colour-1-1780853639533.jpg",
+        "label": "S",
+        "product_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+        "sku": "RG-02-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477835800.5571,
+        "_id": "jh76byvtn19v7x49nrhsh85krx88mh0x",
+        "color_hex": "#000000",
+        "color_name": "Colour 1",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853645/thejrny/raglan-shirt2/variant-Colour-1-1780853639533.jpg",
+        "label": "M",
+        "product_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+        "sku": "RG-02-M",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477835800.5574,
+        "_id": "jh74yax9eypv0y7rwgdz2721jd88m0ty",
+        "color_hex": "#000000",
+        "color_name": "Colour 1",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853645/thejrny/raglan-shirt2/variant-Colour-1-1780853639533.jpg",
+        "label": "L",
+        "product_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+        "sku": "RG-02-L",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477835800.5576,
+        "_id": "jh75vmvf378etdhgnek7sa1b0n88mf6c",
+        "color_hex": "#000000",
+        "color_name": "Colour 1",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853645/thejrny/raglan-shirt2/variant-Colour-1-1780853639533.jpg",
+        "label": "XL",
+        "product_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+        "sku": "RG-02-XL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477835800.5579,
+        "_id": "jh74ep3cw32rwrg5xq6ktqy91188n23z",
+        "color_hex": "#000000",
+        "color_name": "Colour 1",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1780853645/thejrny/raglan-shirt2/variant-Colour-1-1780853639533.jpg",
+        "label": "XXL",
+        "product_id": "jn7233cjbvfa88g8dw6v3mwhk1886a8m",
+        "sku": "RG-02-COL-XXL",
+        "stock": 0
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:57:15.800Z"
+  },
+  {
+    "_creationTime": 1781474941582.4604,
+    "_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-04",
+    "created_at": "2026-06-14T22:09:01.582Z",
+    "id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474770/thejrny/mtjbwy/main-1781474767050.jpg",
+    "is_new": true,
+    "name": "Star Wars Themed Tee",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477859167.94,
+        "_id": "jh798nh4bt2q24edy4k66ktvnd88njwt",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "S",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477859167.9402,
+        "_id": "jh79xhyfkg4jd9zy4fmja70p7588nz7d",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "M",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-M",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9404,
+        "_id": "jh716frs0fbtzbr9ybdn64p22s88mwg9",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "L",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-L",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9407,
+        "_id": "jh74ykgtvf6kzdkgafqh5aqgm588m3xc",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "XL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.941,
+        "_id": "jh72yjb2t68f1hae1gtk33v2a588nbnf",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "XXL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XXL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9412,
+        "_id": "jh70jnkhhfjrscgtgkxamn5ash88mhpq",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781474901/thejrny/mtjbwy/variant-White-1781474899641.jpg",
+        "label": "XXXL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XXXL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9414,
+        "_id": "jh72nfbq2yxg43j792kkkmx0ms88n15x",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "S",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477859167.9417,
+        "_id": "jh769x321b2ekgyepm0rg5a3hd88nqse",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "M",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-M",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.942,
+        "_id": "jh7d672g6wz8thjsag893jjycn88m7n2",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "L",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-L",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9421,
+        "_id": "jh70n2ggt14tbzpwyy4wh5ctc988nmdf",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "XL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9424,
+        "_id": "jh7c8tdd9h67w51hc1xzpz604n88ma0e",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "XXL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XXL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477859167.9426,
+        "_id": "jh70r21qckj2ycx4fqbehmegg188nccc",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475020/thejrny/jn766jm9w099sjh4p1m3hwp5r588mdx3/variant-Black-1781475018333.jpg",
+        "label": "XXXL",
+        "product_id": "jn766jm9w099sjh4p1m3hwp5r588mdx3",
+        "sku": "TJ-04-XXXL",
+        "stock": 30
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:57:39.168Z"
+  },
+  {
+    "_creationTime": 1781475871738.988,
+    "_id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j573h9sq6586v00ahh6pv6acyx888rsg",
+      "j579ts70xrkjvf36rs22h84add887fnv"
+    ],
+    "code": "JR-01",
+    "created_at": "2026-06-14T22:24:31.739Z",
+    "id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475471/thejrny/jromps-001/main-1781475469912.jpg",
+    "is_new": true,
+    "name": "Journey Rompers",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477875603.8054,
+        "_id": "jh75rj6ys8zb2nd9m0rc8hes7h88nrsx",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475581/thejrny/jromps-001/variant-Colour-1-1781475580142.jpg",
+        "label": "ONE SIZE",
+        "product_id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+        "sku": "JR-01-ONE SIZE",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477875603.8057,
+        "_id": "jh74cpwx7bqnp3mf8xf919z6zn88npn9",
+        "color_hex": "#5c5c5c",
+        "color_name": "Ash",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475667/thejrny/jromps-001/variant-White-1781475666574.jpg",
+        "label": "ONE SIZE",
+        "product_id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+        "sku": "JR-01-ONE SIZE",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477875603.806,
+        "_id": "jh7f05ztjpcs4mxt55w0s0xra188ngp7",
+        "color_hex": "#e22400",
+        "color_name": "Red",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475733/thejrny/jromps-001/variant-Red-1781475732374.jpg",
+        "label": "ONE SIZE",
+        "product_id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+        "sku": "JR-01-ONE SIZE",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781477875603.8062,
+        "_id": "jh7d0n9kyc434jvegw47chbs5h88nt93",
+        "color_hex": "#a67b01",
+        "color_name": "CArtOn color",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781475847/thejrny/jromps-001/variant-CArtOn-color-1781475846544.jpg",
+        "label": "ONE SIZE",
+        "product_id": "jn7c1paq8yaf024zp4fw3jkyjn88n3cx",
+        "sku": "JR-01-ONE SIZE",
+        "stock": 30
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:57:55.603Z"
+  },
+  {
+    "_creationTime": 1781477296273.9165,
+    "_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-05",
+    "created_at": "2026-06-14T22:48:16.273Z",
+    "id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781476971/thejrny/qwdggteww/main-1781476968511.jpg",
+    "is_new": true,
+    "name": "CEEC",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781477889775.0278,
+        "_id": "jh7f5enessp1j3vqdxz9fjc33x88nqkj",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "S",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477889775.028,
+        "_id": "jh70y2c7pk2krnjzb85hsp872n88mewx",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "M",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0283,
+        "_id": "jh7a8z2zaxxyny0js3xxxbtakx88mep6",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "L",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0286,
+        "_id": "jh72a0ka0716k4syb02p917rf188nzx5",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "XL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0288,
+        "_id": "jh74mktdb70df2qf90ewwde2k188nkbw",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "XXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.029,
+        "_id": "jh71ms7ze2cem2wemj416h4hm188my1t",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477090/thejrny/qwdggteww/variant-Colour-1-1781477089023.jpg",
+        "label": "XXXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477889775.0293,
+        "_id": "jh782eq8vchr4wdtk9e6evkz7d88n3y4",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "S",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477889775.0295,
+        "_id": "jh70kqbjvyzzdgmc4m73b6zxv588nks6",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "M",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0298,
+        "_id": "jh7egfb0aac24gedhtdyxjwh4988nw3m",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "L",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.03,
+        "_id": "jh76ke4tkxx1bywrr3j530pd3s88n6mp",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "XL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0303,
+        "_id": "jh72he8kk7h63rgsc1v9exf69h88n6z7",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "XXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0305,
+        "_id": "jh7cp1de7t9d2a859t2xfx6fy588mszf",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477167/thejrny/qwdggteww/variant-White-1781477161123.jpg",
+        "label": "XXXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0308,
+        "_id": "jh7338gy03jrq4erkkszbrxh7s88nq0s",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "S",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781477889775.031,
+        "_id": "jh7exwk07dm5dmk8qjxf33dvt188nbhm",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "M",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0312,
+        "_id": "jh78zm44z677njrf13626050hh88n7f2",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "L",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0315,
+        "_id": "jh77jt1ddsk3qwrj64jj0jcknx88nqzp",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "XL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.0317,
+        "_id": "jh73jqgxev88h2bjq10wkbm9ah88n1gx",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "XXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781477889775.032,
+        "_id": "jh72zv9g83ph7n14gh6431yy2n88njr0",
+        "color_hex": "#5c5c5c",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477215/thejrny/qwdggteww/variant-Colour-3-1781477213095.jpg",
+        "label": "XXXL",
+        "product_id": "jn74mdzm5jvfm3r91ed4p2g93s88mhvc",
+        "sku": "TJ-05-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T22:58:09.775Z"
+  },
+  {
+    "_creationTime": 1781477724852.8152,
+    "_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-06",
+    "created_at": "2026-06-14T22:55:24.852Z",
+    "id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477390/thejrny/tj-regular-tee/main-1781477388568.jpg",
+    "is_new": true,
+    "name": "Symbolism Tee",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781478183516.0334,
+        "_id": "jh7e7vrwx1cftktv3g2mw5q7hh88n28e",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "S",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478183516.0337,
+        "_id": "jh77vj30w8z4y2zbytpca8ap1188nb0q",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "M",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.034,
+        "_id": "jh7cp43h160ka0h98zy0dfr08n88mfx5",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "L",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0342,
+        "_id": "jh787wntevg03nx8jb38217pvh88mw51",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "XL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0344,
+        "_id": "jh7aqj7s519js26r52fadywatd88nwvw",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "XXL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0347,
+        "_id": "jh7e4swrvpfxgvqd8j7dnkptcn88m1ca",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477547/thejrny/tj-regular-tee/variant-Colour-1-1781477546045.jpg",
+        "label": "XXXL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.035,
+        "_id": "jh7cgry52nhr6t2fnb8tp7v3dh88mwkm",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "S",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478183516.0352,
+        "_id": "jh7242z5d1mamr4ke9swf40xfd88m3w0",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "M",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0354,
+        "_id": "jh76h993gk5w4z7kp6d3anbecx88m5jr",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "L",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0356,
+        "_id": "jh7329qn4fzr3b4h7zbpnkqppx88nryz",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "XL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.036,
+        "_id": "jh778d7xcnmjxhqwpfdjnqemvh88ms27",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "XXL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478183516.0361,
+        "_id": "jh7bbqrmrv1szepdndw4cgde2588mz1d",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781477676/thejrny/tj-regular-tee/variant-Colour-2-1781477675492.jpg",
+        "label": "XXXL",
+        "product_id": "jn79n4f1y13b26ks0pap1eff5s88m4zn",
+        "sku": "TJ-07-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T23:03:03.516Z"
+  },
+  {
+    "_creationTime": 1781478537077.9307,
+    "_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-07",
+    "created_at": "2026-06-14T23:08:57.077Z",
+    "id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478302/thejrny/whsyshkasb/main-1781478300795.jpg",
+    "is_new": true,
+    "name": "TJ Compass Tee",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781478537077.931,
+        "_id": "jh73q9ytg42sdnmyk305bnp5gs88nngw",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "S",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478537077.9312,
+        "_id": "jh72fst8w1b7p122b5psnfx68188m3j6",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "M",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9314,
+        "_id": "jh72wte4x1bns4tje1gzs4v7t588mbzc",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "L",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9316,
+        "_id": "jh7d2hfp7gfw6ppzmn1rcyp2v588n8n1",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "XL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.932,
+        "_id": "jh73nfa4d3qn7d2kqwbsy27ced88n15f",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "XXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9321,
+        "_id": "jh7f72znm9gf8z091nwm3vv8ms88mvjm",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478377/thejrny/whsyshkasb/variant-Colour-1-1781478375755.jpg",
+        "label": "XXXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478537077.9324,
+        "_id": "jh7cr5dry3shaaa1j40d18w0ss88m29a",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "S",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478537077.9326,
+        "_id": "jh7e8n78rxfetgatswg4sw0ft988n5c4",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "M",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9329,
+        "_id": "jh7a34dpmkwywyj16k2y9ssqv588nfpf",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "L",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.933,
+        "_id": "jh7bjpjw32b4hc6at05q5ekbtn88nrhp",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "XL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9333,
+        "_id": "jh72xgx9c8tfsnexgwftmftc1s88n0t2",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "XXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9336,
+        "_id": "jh75brhyvzvz6q31ywvpzzk4m988mp2a",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478441/thejrny/whsyshkasb/variant-Colour-2-1781478439380.jpg",
+        "label": "XXXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9338,
+        "_id": "jh701sv64tdgebrrhdk8wr21md88nptd",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "S",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781478537077.934,
+        "_id": "jh76dvssy7cyp7k7ybwbqr2nhn88ntx1",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "M",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9343,
+        "_id": "jh71hqah1wk0ved3e5qt32s3dd88memb",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "L",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9346,
+        "_id": "jh72r3wmheqdkdvgsb2wr4jprd88mjmf",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "XL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.9348,
+        "_id": "jh7ex86t71te9dzr7jsfk5e32h88ndn3",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "XXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781478537077.935,
+        "_id": "jh7a2efen386vqqxz63dmgwk3n88n41k",
+        "color_hex": "#858585",
+        "color_name": "AcIdwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781478495/thejrny/whsyshkasb/variant-Colour-3-1781478493769.jpg",
+        "label": "XXXL",
+        "product_id": "jn7f82yyx21r2k8jbpnts2qvhd88naej",
+        "sku": "TJ-07-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-14T23:08:57.077Z"
+  },
+  {
+    "_creationTime": 1781480252250.0874,
+    "_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-08",
+    "created_at": "2026-06-14T23:37:32.250Z",
+    "id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479921/thejrny/hahshsn/main-1781479919296.jpg",
+    "is_new": true,
+    "name": "HER",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781618572637.485,
+        "_id": "jh7e1qp78ab2ztrpcv4541x02188s0k8",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "S",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781618572637.4854,
+        "_id": "jh7be0w3xy45wmnj1aj8j1d61188sfjq",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "M",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4856,
+        "_id": "jh753ts1d3zrr8x9ykv7401z0x88rz0b",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "L",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4858,
+        "_id": "jh73zrf4cgxncs47v7skh3yd0s88r22r",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "XL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.486,
+        "_id": "jh73fmwrzfp99666kx9nwehnfh88rx6b",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "XXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4863,
+        "_id": "jh758sdhgsgym66zxs9dfbnwzx88rw6n",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781479973/thejrny/hahshsn/variant-Colour-1-1781479971373.jpg",
+        "label": "XXXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781618572637.4866,
+        "_id": "jh7fxaws3cwt4460zzyjseaexh88srfa",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "S",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781618572637.4868,
+        "_id": "jh764f2j0cs81119vtsgxg7htx88rdxc",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "M",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.487,
+        "_id": "jh74264za52qhnb8chafhkev8988s6yp",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "L",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4873,
+        "_id": "jh7bw1mh58qtavdsvqs1v2jwgn88s3qz",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "XL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4875,
+        "_id": "jh7e2q4nd2wceryd5g6r0v756588srq2",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "XXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4878,
+        "_id": "jh7b6ey3jqg20pxfjy5r8rjkdn88snjh",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480081/thejrny/hahshsn/variant-Colour-2-1781480079826.jpg",
+        "label": "XXXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781618572637.488,
+        "_id": "jh7c4z4k21e0f2tfq0krk6q64h88st6z",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "S",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781618572637.4883,
+        "_id": "jh79b7yk61ngqcxe1bskhv92t588sreq",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "M",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4885,
+        "_id": "jh759rpa8nbey50qx5jqftghs188syxm",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "L",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4888,
+        "_id": "jh78z14szw6x9a3pkxqpytc1g588rm2w",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "XL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.489,
+        "_id": "jh76ntx7je50zdrv9rmftcrbvn88rhhe",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "XXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781618572637.4893,
+        "_id": "jh795f9kz1ntn4nnz7q53cy8e188sdys",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781480192/thejrny/hahshsn/variant-Colour-3-1781480191524.jpg",
+        "label": "XXXL",
+        "product_id": "jn77b3jafdh04p942ssgwrkbjs88mr5c",
+        "sku": "TJ-07-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-16T14:02:52.637Z"
+  },
+  {
+    "_creationTime": 1781587209599.6204,
+    "_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv"
+    ],
+    "code": "BT-01",
+    "created_at": "2026-06-16T05:20:09.599Z",
+    "id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781586994/thejrny/basic-top-01/main-1781586992905.jpg",
+    "is_new": false,
+    "name": "TJ Hearts Basic Tops",
+    "price_gbp": 11,
+    "price_ngn": 20000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781587288639.182,
+        "_id": "jh76d7n9g8r53qkrp589dgwmx188s6qe",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587093/thejrny/basic-top-01/variant-Colour-1-1781587092613.jpg",
+        "label": "XL",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-XL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781587288639.1821,
+        "_id": "jh78abgwwsxn99e03m6sg00hj188r2jk",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587093/thejrny/basic-top-01/variant-Colour-1-1781587092613.jpg",
+        "label": "XXL",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-XXL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781587288639.1824,
+        "_id": "jh7d9paktzxhx9kpb7ahfg4yw588rkpy",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587093/thejrny/basic-top-01/variant-Colour-1-1781587092613.jpg",
+        "label": "Full length ",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-BLA-Full length ",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781587288639.1826,
+        "_id": "jh75xefnk3rs30j7h3vaxe8eh188ra1c",
+        "color_hex": "#f4a4c0",
+        "color_name": "Pink",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587168/thejrny/basic-top-01/variant-Pink-1781587167441.jpg",
+        "label": "XL",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-XL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781587288639.1829,
+        "_id": "jh7dqd99f8t4b2rd50r4wayzgs88re0g",
+        "color_hex": "#f4a4c0",
+        "color_name": "Pink",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587168/thejrny/basic-top-01/variant-Pink-1781587167441.jpg",
+        "label": "XXL",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-XXL",
+        "stock": 30
+      },
+      {
+        "_creationTime": 1781587288639.183,
+        "_id": "jh7ckk2v0gkpve2hbs0mba0v9d88rgfa",
+        "color_hex": "#f4a4c0",
+        "color_name": "Pink",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587168/thejrny/basic-top-01/variant-Pink-1781587167441.jpg",
+        "label": "Full length ",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-PIN-Full length ",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781587288639.1833,
+        "_id": "jh75tenn8kq5dhjyeytfycv60s88rzvx",
+        "label": "Full length ",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-VAR1",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781587288639.1836,
+        "_id": "jh70e9s8vb6bckbb8adayw0x3188rp1g",
+        "label": "",
+        "product_id": "jn77r9pfm4czkhgxx7v2jwq3r188srzb",
+        "sku": "BT-01-VAR2",
+        "stock": 0
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-16T05:21:28.639Z"
+  },
+  {
+    "_creationTime": 1781587668494.709,
+    "_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "TJ-09",
+    "created_at": "2026-06-16T05:27:48.494Z",
+    "id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781587576/thejrny/chained-in-chaos-tee/main-1781587574370.png",
+    "is_new": true,
+    "name": "Chained in Chaos Tee",
+    "price_gbp": 13.7,
+    "price_ngn": 25000,
+    "product_sizes": [
+      {
+        "_creationTime": 1781639829550.5918,
+        "_id": "jh7cj8qx0eekdbjz8njxkmn2an88sne0",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "S",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781639829550.592,
+        "_id": "jh7eqwe861vb1a566s8x3mm5cn88r6ms",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "M",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5923,
+        "_id": "jh72zvwqtcdhfz28920js6e5ch88rwts",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "L",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5925,
+        "_id": "jh735br8bb7va26rrxphempyps88s5ks",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "XL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5928,
+        "_id": "jh7e60pxq3q3cxprhtqqt2e6vn88r41f",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "XXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.593,
+        "_id": "jh7cqce8jmrz0trkg9znpwpqfn88rp3z",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639649/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Colour-1-1781639645332.png",
+        "label": "XXXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5933,
+        "_id": "jh7dxcd985gpz6yjzfnxr3622s88r6j0",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "S",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781639829550.5935,
+        "_id": "jh75s3nmf5avwcba3sg40m0grd88rs64",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "M",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5938,
+        "_id": "jh78adkyn3rp323t5hge9qk4m188rheq",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "L",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.594,
+        "_id": "jh7fr4j56krrzxfjq57p0s7wd588sqef",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "XL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5942,
+        "_id": "jh7dac2js6d7ghdr4w64ykhpns88s8fb",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "XXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5945,
+        "_id": "jh72j6aqqrjaqp8j77vqf95k7188r1ah",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639734/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-White-1781639726037.png",
+        "label": "XXXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5947,
+        "_id": "jh7c12h1kew2bf0cb6q8y520rs88r68t",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "S",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1781639829550.595,
+        "_id": "jh7ccpe59abmm6j68wdzke8td188sgx5",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "M",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5952,
+        "_id": "jh76q0pfcjpjs8cm03pysb67nx88ssvw",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "L",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5955,
+        "_id": "jh7ecjg72pawcyqy80rtv5m35588rffn",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "XL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.5957,
+        "_id": "jh77xjvkw9z85g3mfzkpa8mp3988rbam",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "XXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1781639829550.596,
+        "_id": "jh70h7brmrw0qy5bhcf6492yv588skbc",
+        "color_hex": "#707070",
+        "color_name": "Acidwashed",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1781639819/thejrny/jn73mtbmm711c52xr5zzhdntwh88rk5a/variant-Acidwashed-1781639814770.png",
+        "label": "XXXL",
+        "product_id": "jn73mtbmm711c52xr5zzhdntwh88rk5a",
+        "sku": "TJ-09-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-16T19:57:09.550Z"
+  },
+  {
+    "_creationTime": 1782348159690.416,
+    "_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv",
+      "j573h9sq6586v00ahh6pv6acyx888rsg"
+    ],
+    "code": "JRR-01",
+    "created_at": "2026-06-25T00:42:39.690Z",
+    "id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347649/thejrny/journey-romper-02/main-1782347640496.jpg",
+    "is_new": true,
+    "name": "Journey Short sleeved Romper (REFLECTIVE )",
+    "price_gbp": 19.2,
+    "price_ngn": 35000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783122070743.557,
+        "_id": "jh783y3eefqpv7e3dwt172yt2n89t5et",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "XS",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XS",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5571,
+        "_id": "jh7cvxxrgb1spssgy890ccw6vn89trh9",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "S",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5574,
+        "_id": "jh7a18f13b529hrs5g8wja49x189ty5y",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "M",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5576,
+        "_id": "jh79cvstjxa56ejf80gjcdp90989tq8t",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "L",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5579,
+        "_id": "jh7cpf71pz123p92pjsypebza989va75",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "XL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.558,
+        "_id": "jh71csrxypr5s84pyzgf7c5qz589vjny",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "XXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5583,
+        "_id": "jh70kz0450q9yefna61jtjk5qn89tt53",
+        "color_hex": "#000000",
+        "color_name": "BLack",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347717/thejrny/journey-romper-02/variant-Colour-1-1782347714172.jpg",
+        "label": "XXXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5586,
+        "_id": "jh71q7k60s15bx5m8gmjrzhw2x89v79m",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "XS",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XS",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5588,
+        "_id": "jh7fkmhwc4nr2vf3dcrm7ac1t189t35m",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "S",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.559,
+        "_id": "jh7ftwwdpbwn3sfdk0d5pf0rfn89ty19",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "M",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5593,
+        "_id": "jh79v01bmtb8v9mzmvme3sqred89vsct",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "L",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5596,
+        "_id": "jh7532pyjxc2dwg7rvy94snmf989tzqs",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "XL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5598,
+        "_id": "jh7a9p7dg8fezqc80r348pfz6s89t2nf",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "XXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.56,
+        "_id": "jh78swd2kgq95b04t8ag79ssws89vapj",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347903/thejrny/journey-romper-02/variant-Colour-2-1782347901589.jpg",
+        "label": "XXXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXXL",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5603,
+        "_id": "jh7cvd8y1hwz61hf3z26np1nn989t82r",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "XS",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XS",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122070743.5605,
+        "_id": "jh7f68hpegzec518xs3ckxfcd589tdcq",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "S",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5608,
+        "_id": "jh7a63nsj6ajpszrjhbsy9dgtd89t6wg",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "M",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.561,
+        "_id": "jh7dtffa1kq71scze7x7n59xy589tt89",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "L",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5613,
+        "_id": "jh73cq6nc59kfjh908v736btk589ttd0",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "XL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5615,
+        "_id": "jh79z642nx4vmbfahtnvbze12s89t4x2",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "XXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122070743.5618,
+        "_id": "jh770xjjkbven7yhv425wmmrv589vvyd",
+        "color_hex": "#7a4a00",
+        "color_name": "BroWn",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782347989/thejrny/journey-romper-02/variant-Colour-3-1782347987626.jpg",
+        "label": "XXXL",
+        "product_id": "jn70z3q50tmw3dyycacpms496s89bnwk",
+        "sku": "JRR-01-XXXL",
+        "stock": 10
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:41:10.743Z"
+  },
+  {
+    "_creationTime": 1782503538838.7844,
+    "_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv",
+      "j573h9sq6586v00ahh6pv6acyx888rsg"
+    ],
+    "code": "JGR-01",
+    "created_at": "2026-06-26T19:52:18.838Z",
+    "id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502408/thejrny/jgr/main-1782502405565.jpg",
+    "is_new": true,
+    "name": "Journey long sleeved Romper (Glow in The Dark)",
+    "price_gbp": 19.2,
+    "price_ngn": 35000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783122101973.8923,
+        "_id": "jh76d8pr1fxps88fg62xnxxw7589v7by",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "S",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122101973.8926,
+        "_id": "jh7c51zh6t0sj0cgzfe80bwv8n89tm43",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "M",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-M",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122101973.8928,
+        "_id": "jh7bsapdpf97vsceapvpnzdf6189vjaz",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "L",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.893,
+        "_id": "jh78p89azvg73fc104bd5sqr8989teww",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "XL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8933,
+        "_id": "jh702wyz0z40r11bncgd6egvvn89vz0b",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "XXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8936,
+        "_id": "jh7438b3zrejfm0m1t69w1x6y189t3r2",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "XXXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8938,
+        "_id": "jh7d4p03fh8evbd4emsp876gv989vp65",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "Reflective print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BLA-Reflective print",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.894,
+        "_id": "jh7738367f49g157eyegq23z4d89vn8q",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "Glow in the dark ",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BLA-Glow in the dark ",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8943,
+        "_id": "jh70k6tyd8hedv2pk2b0kdk69h89t96g",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502603/thejrny/jgr/variant-Colour-1-1782502601232.jpg",
+        "label": "Normal Print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BLA-Normal Print",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8945,
+        "_id": "jh7fwq6jzj89z2w3vrxq0xfvsx89vz6c",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "S",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122101973.8948,
+        "_id": "jh7a56yp116a1be6h2em865b7n89vcja",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "M",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.895,
+        "_id": "jh71m3f47hevf5yk9jcgrg4bwn89td9p",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "L",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8953,
+        "_id": "jh76ft0y5dvyg7zrm6bx57cg4s89teg0",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "XL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8955,
+        "_id": "jh75mbd3krfgtq96sgk5z56yhx89v65e",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "XXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8958,
+        "_id": "jh72hden8vmpm86k48tarqg46s89v9tk",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "XXXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.896,
+        "_id": "jh7fgbtwej1krwrcr0p456akyd89t4c4",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "Reflective print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-GRA-Reflective print",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8962,
+        "_id": "jh79gn1jnexgdkk7h7jdkfvwd589ty6v",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "Glow in the dark ",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-GRA-Glow in the dark ",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8965,
+        "_id": "jh7bnb8rv3vyfeayrmna54xqs589vfrq",
+        "color_hex": "#707070",
+        "color_name": "Gray",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502812/thejrny/jgr/variant-Colour-2-1782502809844.jpg",
+        "label": "Normal Print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-GRA-Normal Print",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8967,
+        "_id": "jh7dg69ed2skdyh3hkaar4qjc989vkp7",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "S",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-S",
+        "stock": 10
+      },
+      {
+        "_creationTime": 1783122101973.897,
+        "_id": "jh7ckct2ekc628wwq9akc76gf989v916",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "M",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8972,
+        "_id": "jh7dqnqswevxqsxtf4zhxkb2sx89trza",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "L",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8975,
+        "_id": "jh78xdsmn0dvhbnvnb431ndm2189tsv8",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "XL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8977,
+        "_id": "jh7cg097z77xywfx0zjm1x8mkx89va5j",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "XXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.898,
+        "_id": "jh79q26xf4t7cqsp12d21t75y189t1qp",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "XXXL",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122101973.8982,
+        "_id": "jh764ntd6dgt9819wn0w0dcr8s89vkyc",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "Reflective print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BRO-Reflective print",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8984,
+        "_id": "jh705gr5vmaxcwaaqme499pd8d89vvwg",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "Glow in the dark ",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BRO-Glow in the dark ",
+        "stock": 0
+      },
+      {
+        "_creationTime": 1783122101973.8987,
+        "_id": "jh7ck4yk6efqgkm729rdm4gct589tt21",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782502883/thejrny/jgr/variant-Colour-3-1782502881347.jpg",
+        "label": "Normal Print",
+        "product_id": "jn7ayb5az51pftmf8tb2ae089n89dy2p",
+        "sku": "JGR-01-BRO-Normal Print",
+        "stock": 0
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:41:41.973Z"
+  },
+  {
+    "_creationTime": 1782856672911.694,
+    "_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev",
+      "j573h9sq6586v00ahh6pv6acyx888rsg"
+    ],
+    "code": "TJ-11",
+    "created_at": "2026-06-30T21:57:52.911Z",
+    "id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856429/thejrny/tj-fitted-tee/main-1782856426978.png",
+    "is_new": true,
+    "name": "TJ fitted Tee (Ying & Yang logo)",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1782856672911.6943,
+        "_id": "jh7ejkvkrz6a79jsqcxtsf3we989ny03",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856600/thejrny/tj-fitted-tee/variant-White-1782856598352.png",
+        "label": "M",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.6946,
+        "_id": "jh79155nj09w40rdvn86vjkp4d89m5tr",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856600/thejrny/tj-fitted-tee/variant-White-1782856598352.png",
+        "label": "L",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.6948,
+        "_id": "jh7ecz8nm5vzx5akxc6376f9px89n9dn",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856600/thejrny/tj-fitted-tee/variant-White-1782856598352.png",
+        "label": "XL",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.695,
+        "_id": "jh7a4wa27e98ny5qx3dphr12rx89m6zs",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856600/thejrny/tj-fitted-tee/variant-White-1782856598352.png",
+        "label": "XXL",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.6953,
+        "_id": "jh7c5n1xjtmanp6vxfnvxrecy589mv22",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856650/thejrny/tj-fitted-tee/variant-Black-1782856647934.png",
+        "label": "M",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.6956,
+        "_id": "jh7e7jaw3jtb0m2gd0dxtj2m7h89mb62",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856650/thejrny/tj-fitted-tee/variant-Black-1782856647934.png",
+        "label": "L",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.6958,
+        "_id": "jh73pktmbjzc4gkekbqhf8c91589m2aw",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856650/thejrny/tj-fitted-tee/variant-Black-1782856647934.png",
+        "label": "XL",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856672911.696,
+        "_id": "jh76beyc1jkb332mm7e013k0nh89m4qy",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856650/thejrny/tj-fitted-tee/variant-Black-1782856647934.png",
+        "label": "XXL",
+        "product_id": "jn71e3m0396a3xh3cbn8t3nxb989n46m",
+        "sku": "TJ-11-XXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-30T21:57:52.911Z"
+  },
+  {
+    "_creationTime": 1782856865177.0374,
+    "_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j572sqw4zthf892n73dy17g3kd886zev",
+      "j573h9sq6586v00ahh6pv6acyx888rsg"
+    ],
+    "code": "TJ-12",
+    "created_at": "2026-06-30T22:01:05.177Z",
+    "id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856745/thejrny/tj-fitted-tees/main-1782856743081.png",
+    "is_new": true,
+    "name": "TJ Fitted Tee (Icarus Logo)",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1782856865177.0376,
+        "_id": "jh7cny973yb0fvsdfmp6nsgsh189ma0e",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856814/thejrny/tj-fitted-tees/variant-White-1782856812481.png",
+        "label": "M",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.0378,
+        "_id": "jh76q5yn21m8pkqzmqqz0n78jd89mhqs",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856814/thejrny/tj-fitted-tees/variant-White-1782856812481.png",
+        "label": "L",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.038,
+        "_id": "jh703xe7f9jydmpr08mqdd4pps89n6da",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856814/thejrny/tj-fitted-tees/variant-White-1782856812481.png",
+        "label": "XL",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.0383,
+        "_id": "jh7apx3adsjqen8twe5axs57pn89mtf4",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856814/thejrny/tj-fitted-tees/variant-White-1782856812481.png",
+        "label": "XXL",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.0386,
+        "_id": "jh7bvq0pjgkhwd4jty9hb23p5s89nhe9",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856850/thejrny/tj-fitted-tees/variant-Black-1782856847922.png",
+        "label": "M",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.0388,
+        "_id": "jh72zt7kjerpkdpm44pbj3tmvs89mn1z",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856850/thejrny/tj-fitted-tees/variant-Black-1782856847922.png",
+        "label": "L",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.039,
+        "_id": "jh7290t4dtkhzpbx460ydgwkvd89nynj",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856850/thejrny/tj-fitted-tees/variant-Black-1782856847922.png",
+        "label": "XL",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1782856865177.0393,
+        "_id": "jh7a6606dkgr9qx9z4w3adgrkn89mdza",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1782856850/thejrny/tj-fitted-tees/variant-Black-1782856847922.png",
+        "label": "XXL",
+        "product_id": "jn7abjqk262rwf2wdn026jbcgs89nxp2",
+        "sku": "TJ-12-XXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-06-30T22:01:05.177Z"
+  },
+  {
+    "_creationTime": 1783120756003.7693,
+    "_id": "jn7ew5vcsqw2c6j7qwr5sc064d89vccn",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j570tnxev0bxr792w6apppd2n1886mmy"
+    ],
+    "code": "SB-01",
+    "created_at": "2026-07-03T23:19:16.003Z",
+    "id": "jn7ew5vcsqw2c6j7qwr5sc064d89vccn",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783120357/thejrny/tjk-sb-01/main-1783120354824.png",
+    "is_new": true,
+    "name": "TJ Kanji SnapBack ",
+    "price_gbp": 8.5,
+    "price_ngn": 15000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783120756003.7695,
+        "_id": "jh704mh6307ev33fnj8n07xyh589tjn8",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783120411/thejrny/tjk-sb-01/variant-Colour-1-1783120409643.png",
+        "label": "ONE SIZE",
+        "product_id": "jn7ew5vcsqw2c6j7qwr5sc064d89vccn",
+        "sku": "SB-01-ONE SIZE",
+        "stock": 50
+      },
+      {
+        "_creationTime": 1783120756003.7698,
+        "_id": "jh7ezf6wkv8cawd508spn7m83989tznr",
+        "color_hex": "#999999",
+        "color_name": "Grey and black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783120434/thejrny/tjk-sb-01/variant-Colour-2-1783120429475.png",
+        "label": "ONE SIZE",
+        "product_id": "jn7ew5vcsqw2c6j7qwr5sc064d89vccn",
+        "sku": "SB-01-ONE SIZE",
+        "stock": 50
+      },
+      {
+        "_creationTime": 1783120756003.77,
+        "_id": "jh7adj2gp646cc5kd47h85jr9189tm84",
+        "color_hex": "#b51a00",
+        "color_name": "Red and black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783120526/thejrny/tjk-sb-01/variant-Colour-3-1783120524373.png",
+        "label": "ONE SIZE",
+        "product_id": "jn7ew5vcsqw2c6j7qwr5sc064d89vccn",
+        "sku": "SB-01-ONE SIZE",
+        "stock": 50
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:19:16.003Z"
+  },
+  {
+    "_creationTime": 1783122021409.1335,
+    "_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv"
+    ],
+    "code": "JSSR-02",
+    "created_at": "2026-07-03T23:40:21.409Z",
+    "id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121742/thejrny/tj-sr-02/main-1783121740973.jpg",
+    "is_new": true,
+    "name": "Journey short sleeved Romper (Glow in the dark)",
+    "price_gbp": 19.2,
+    "price_ngn": 35000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783122021409.1338,
+        "_id": "jh7fam19j7qne93cchb0h7f0xx89vmmv",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "S",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.134,
+        "_id": "jh75zan1crez159h3j4bpt0gfn89t1n5",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "M",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1343,
+        "_id": "jh774jm3gz087h8jbeddjh60jn89t5kt",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "L",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1345,
+        "_id": "jh7a52drab1y4x69e3aned5swd89tmmn",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "XL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1348,
+        "_id": "jh7aq86389gvkzppbr6cz1tgyn89t4nr",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "XXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.135,
+        "_id": "jh7d2531kbdr197128w946pb0d89tmvz",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121874/thejrny/tj-sr-02/variant-Colour-1-1783121873175.jpg",
+        "label": "XXXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1353,
+        "_id": "jh7dcvvawnxwqsvvees1qx6rks89vd8d",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "S",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1355,
+        "_id": "jh73hrc36ng8k1j9935pvxdbys89tvhz",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "M",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1357,
+        "_id": "jh793bpegars68k5qyf17mx3yn89t15q",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "L",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.136,
+        "_id": "jh782hf4bsfcrq0sg2gbcbcmj589v7js",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "XL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1362,
+        "_id": "jh792vzamy0dchtg93g4rkkkm989t96k",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "XXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1365,
+        "_id": "jh73aqevme3xmjhgrtpbb9qyyd89ty2e",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121932/thejrny/tj-sr-02/variant-Colour-2-1783121930729.jpg",
+        "label": "XXXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1367,
+        "_id": "jh735bzbypv0js1gc8tfsqfbpd89vw3w",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "S",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.137,
+        "_id": "jh72htsws34avyrtrwq9wy3fhh89txqn",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "M",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1372,
+        "_id": "jh76bxhwnv13z6xg5y5nnfwqxx89vefv",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "L",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1375,
+        "_id": "jh7efvc5yqnajyqjk31ze58p1n89v9h5",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "XL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.1377,
+        "_id": "jh73czh5hqkvzm6rr5nkeqkej189tgg2",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "XXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122021409.138,
+        "_id": "jh77mq51ntw2a7g6h8ek5dbx0989t0py",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783121984/thejrny/tj-sr-02/variant-Colour-3-1783121983306.jpg",
+        "label": "XXXL",
+        "product_id": "jn74yhfqx8crhaacyczkmfvr4989t85w",
+        "sku": "JSSR-02-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:40:21.409Z"
+  },
+  {
+    "_creationTime": 1783122476343.6892,
+    "_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv"
+    ],
+    "code": "JLSR-02",
+    "created_at": "2026-07-03T23:47:56.343Z",
+    "id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122218/thejrny/tj-jslr--02/main-1783122217133.jpg",
+    "is_new": true,
+    "name": "Journey long sleeved Romper (Reflective)",
+    "price_gbp": 19.2,
+    "price_ngn": 35000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783122476343.6895,
+        "_id": "jh746x3k4f09vye3r868m2cfp989vntk",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "S",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6897,
+        "_id": "jh74fkmnbde7pqw4htrymy5rg989ttce",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "M",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.69,
+        "_id": "jh71w1nv60jpgxwy807s3mekwx89vtr4",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "L",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6902,
+        "_id": "jh73dxtx969fgtk4epwem4s3qs89t1fg",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "XL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6904,
+        "_id": "jh738vpf9cb5a94bzx2eg4tanx89vq3r",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "XXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6907,
+        "_id": "jh7bd09dtdn1krwkj62721ftr589th8h",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122316/thejrny/tj-jslr--02/variant-Colour-1-1783122315075.jpg",
+        "label": "XXXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.691,
+        "_id": "jh77rhx3rv7qk2xt53ekjad5vx89twsj",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "S",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6912,
+        "_id": "jh70mt6vvw2kbsx8cc6djnzvn189t1k2",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "M",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6914,
+        "_id": "jh791vzebh38fsf0jzkzete4c189tb3v",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "L",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6917,
+        "_id": "jh7bk8mxn750yb4hj2a6yje5hd89tcj2",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "XL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.692,
+        "_id": "jh72x2y8ksp5kg4v5rxxvqdxjh89v0q0",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "XXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6921,
+        "_id": "jh75ry2bqh427c4fqacmptjngx89te65",
+        "color_hex": "#858585",
+        "color_name": "Grey",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122397/thejrny/tj-jslr--02/variant-Grey-1783122395762.jpg",
+        "label": "XXXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6924,
+        "_id": "jh782bdw3csvmr8td22k6q0d7n89v0gf",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "S",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-S",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6926,
+        "_id": "jh72rt4efg78s6v5wnnmyewcnn89t6jf",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "M",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-M",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6929,
+        "_id": "jh7egtj9ep0f4b8y7t3dxc8bgn89tzxc",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "L",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-L",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.693,
+        "_id": "jh76gjps081b9hrrkbv4tcpkss89v88v",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "XL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6934,
+        "_id": "jh72hxvrbwxfcxg0awbwf2qd2n89tb5x",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "XXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXL",
+        "stock": 20
+      },
+      {
+        "_creationTime": 1783122476343.6936,
+        "_id": "jh70vf60epjgn0fcrf01dhn4dd89tns3",
+        "color_hex": "#7a4a00",
+        "color_name": "Brown",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122444/thejrny/tj-jslr--02/variant-Brown-1783122442718.jpg",
+        "label": "XXXL",
+        "product_id": "jn76z7z2tvrwf4bmwsdrvh83xs89vnx1",
+        "sku": "JLSR-02-XXXL",
+        "stock": 20
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:47:56.343Z"
+  },
+  {
+    "_creationTime": 1783122892479.313,
+    "_id": "jn7cg8amn1vcgwgb4cph947j4h89tyht",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j570tnxev0bxr792w6apppd2n1886mmy"
+    ],
+    "code": "TJ-BN01",
+    "created_at": "2026-07-03T23:54:52.479Z",
+    "id": "jn7cg8amn1vcgwgb4cph947j4h89tyht",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122532/thejrny/tj-bn-01/main-1783122530094.png",
+    "is_new": true,
+    "name": "TJ Beanie",
+    "price_gbp": 8.5,
+    "price_ngn": 15000,
+    "product_sizes": [
+      {
+        "_creationTime": 1783122892479.3132,
+        "_id": "jh7brwzwg0nqvcd1avyse918j189tenq",
+        "color_hex": "#000000",
+        "color_name": "Black",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122828/thejrny/tj-bn-01/variant-Colour-1-1783122824666.png",
+        "label": "ONE SIZE",
+        "product_id": "jn7cg8amn1vcgwgb4cph947j4h89tyht",
+        "sku": "TJ-BN01-ONE SIZE",
+        "stock": 50
+      },
+      {
+        "_creationTime": 1783122892479.3135,
+        "_id": "jh721q51qbttqkqm9d142g2qdn89tpqv",
+        "color_hex": "#ffffff",
+        "color_name": "White",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1783122867/thejrny/tj-bn-01/variant-Colour-2-1783122865444.png",
+        "label": "ONE SIZE",
+        "product_id": "jn7cg8amn1vcgwgb4cph947j4h89tyht",
+        "sku": "TJ-BN01-ONE SIZE",
+        "stock": 50
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-07-03T23:54:52.479Z"
+  },
+  {
+    "_creationTime": 1787278083162.5632,
+    "_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j573h9sq6586v00ahh6pv6acyx888rsg",
+      "j572sqw4zthf892n73dy17g3kd886zev"
+    ],
+    "code": "WKT-01",
+    "created_at": "2026-08-21T02:08:03.162Z",
+    "id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787276791/thejrny/wkt-01/main-1787276788323.jpg",
+    "is_new": true,
+    "name": "White Kanji Tee (Limited Edition)",
+    "price_gbp": 16.5,
+    "price_ngn": 30000,
+    "product_sizes": [
+      {
+        "_creationTime": 1787278083162.5635,
+        "_id": "jh77xjzmz52e9scpaxqcwd35ex8cwz45",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "S",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-S",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5637,
+        "_id": "jh7adm7tne1333zqk2nkw6cz618cxfeh",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "M",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-M",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.564,
+        "_id": "jh7dyw5fdsrvgt1f3ctzer4fc58cxgzb",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "L",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-L",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.5642,
+        "_id": "jh74q23kxnz1vw67ha5ss76n2h8cxez6",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "XL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XL",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.5645,
+        "_id": "jh70v2vmh6m0ap226qfygt12ts8cwe32",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "XXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5647,
+        "_id": "jh724erwn3q0tsm6r2yx0cdxmh8cxszj",
+        "color_hex": "#e22400",
+        "color_name": "Ladybug print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277224/thejrny/wkt-01/variant-Colour-1-1787277222687.jpg",
+        "label": "XXXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.565,
+        "_id": "jh71zx4819r1k8kay2ebvk03q98cw37v",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "S",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-S",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5652,
+        "_id": "jh7ftq8hrrf74kgnk4v34eawf18cwcnx",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "M",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-M",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5654,
+        "_id": "jh7fenpb7vztdshez2ntdy8sf98cxs3e",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "L",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-L",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.5657,
+        "_id": "jh77mahjgzf4zvj1dr36sefbr18cxzdy",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "XL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XL",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.566,
+        "_id": "jh79chgks3fxqrqde1vgyhzzqd8cwdv1",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "XXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5662,
+        "_id": "jh78tqdjp1yfpj4a0txdegt5jh8cwj55",
+        "color_hex": "#fecb3e",
+        "color_name": "Cheetah print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277516/thejrny/wkt-01/variant-Colour-2-1787277514361.jpg",
+        "label": "XXXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5664,
+        "_id": "jh7ejsx9xxn1526atgef47rbrd8cx1a6",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "S",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-S",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5667,
+        "_id": "jh7cemw8hwqhdhhtc539s206hh8cxmze",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "M",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-M",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.567,
+        "_id": "jh70srsnzgqjwc1f7tcb9zf08h8cx1r5",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "L",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-L",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.5671,
+        "_id": "jh76ryjgnqkn4haxqzje70w8th8cw8rn",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "XL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5674,
+        "_id": "jh7dvet1n5ac6n0xfd6gvpn4en8cxmqw",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "XXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5676,
+        "_id": "jh761x0jgj31q5nsf3k7h9petd8cxxwq",
+        "color_hex": "#ee719e",
+        "color_name": "Pink pAnTher Print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277576/thejrny/wkt-01/variant-Colour-3-1787277574917.jpg",
+        "label": "XXXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5679,
+        "_id": "jh7dsew6cjapwdrycpxb1f9kr98cwphc",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "S",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-S",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.568,
+        "_id": "jh7f7jbxp771nb092r4xgxbarh8cw8es",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "M",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-M",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5684,
+        "_id": "jh76hvqhbwsgysdbs9qrdz4mk98cxrfw",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "L",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-L",
+        "stock": 2
+      },
+      {
+        "_creationTime": 1787278083162.5686,
+        "_id": "jh7cye32mdgc096e0w70cxnpjs8cxyzb",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "XL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.5688,
+        "_id": "jh72wyq1exv2ypked0rcqh982s8cxmtz",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "XXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXL",
+        "stock": 1
+      },
+      {
+        "_creationTime": 1787278083162.569,
+        "_id": "jh7f83kkx0bmf6d0pftnz40d7s8cxnh6",
+        "color_hex": "#7a219e",
+        "color_name": "Jaguar print",
+        "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787277617/thejrny/wkt-01/variant-Colour-4-1787277616030.jpg",
+        "label": "XXXL",
+        "product_id": "jn7crp8qt202x6q4aqcrtxjp898cw0hj",
+        "sku": "WKT-01-XXXL",
+        "stock": 1
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-08-21T02:08:03.162Z"
+  },
+  {
+    "_creationTime": 1787406329190.8582,
+    "_id": "jn79kn6ttzsc3dsyy1fgsbw9998cz9df",
+    "categories": [
+      "NEW",
+      "MENS",
+      "j579ts70xrkjvf36rs22h84add887fnv",
+      "j573h9sq6586v00ahh6pv6acyx888rsg"
+    ],
+    "code": "TJI-01",
+    "created_at": "2026-08-22T13:45:29.190Z",
+    "id": "jn79kn6ttzsc3dsyy1fgsbw9998cz9df",
+    "image_url": "https://res.cloudinary.com/dlikyxmqf/image/upload/v1787406261/thejrny/tji/main-1787406255506.jpg",
+    "is_new": true,
+    "name": "The Journey x IZI Romper",
+    "price_gbp": 21.8,
+    "price_ngn": 40000,
+    "product_sizes": [
+      {
+        "_creationTime": 1787406329190.8584,
+        "_id": "jh7ftpsvyp9ab0zcj4hb8bg3s98cz49c",
+        "label": "ONE SIZE",
+        "product_id": "jn79kn6ttzsc3dsyy1fgsbw9998cz9df",
+        "sku": "TJI-01-ONE SIZE",
+        "stock": 10
+      }
+    ],
+    "sort_order": 0,
+    "tones": [
+      "#0a0a0a",
+      "#050505",
+      "#000000"
+    ],
+    "updated_at": "2026-08-22T13:45:29.190Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_creationTime": 1780914880782.3267,
+    "_id": "js77sjfzfz8csrh4sh4qz3kw5h889szs",
+    "active": true,
+    "eta": "2–4 days",
+    "mode": "LIVE",
+    "name": "GUO Transport",
+    "price_ngn": 5000,
+    "region": "NG"
+  },
+  {
+    "_creationTime": 1782825384956.3738,
+    "_id": "js7ezt9f1849cg06dz59dj4ctn89net0",
+    "active": true,
+    "eta": "1 day",
+    "mode": "LIVE",
+    "name": "Interstate (PH)",
+    "price_ngn": 3000,
+    "region": "NG"
+  },
+  {
+    "_creationTime": 1782825401234.7422,
+    "_id": "js7ddq58tv0296sh1k4n8sdgns89n6hk",
+    "active": true,
+    "eta": "1 Day",
+    "mode": "LIVE",
+    "name": "Pickup",
+    "price_ngn": 0,
+    "region": "NG"
+  }
+]
